@@ -103,5 +103,5 @@ plt.show()
 ```
 <img width="515" height="290" alt="image" src="https://github.com/user-attachments/assets/be64c832-3fda-4708-9007-7a0d69ce2c67" />
 
-Result
+# Result
 The Haar Cascade classifier successfully detected the license plate region from the input image. After preprocessing (Gaussian Blur and Histogram Equalization), the detection became more stable and accurate.
